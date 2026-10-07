@@ -9,6 +9,6 @@ no me da tiempo a seguir una argumentacion
 |juego3             |      3          |
 
 # Enlaces
-[enlace1]([https://chatgpt.com/](https://www.google.com/search?q=google&rlz=1C1HKFL_esES1209ES1209&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDQgCEAAYgwEYsQMYgAQyCggDEAAYsQMYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEAUYQNIBBzgzMGowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8))
+[enlace1](https://www.google.com/search?q=google&rlz=1C1HKFL_esES1209ES1209&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDQgCEAAYgwEYsQMYgAQyCggDEAAYsQMYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEAUYQNIBBzgzMGowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8)
 
-[enlace2]([https://www.anthropic.com/"Antropic"](https://mail.google.com/mail/u/0/))
+[enlace2](https://mail.google.com/mail/u/0/)

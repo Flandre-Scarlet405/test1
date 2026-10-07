@@ -16,3 +16,10 @@ no me da tiempo a seguir una argumentacion
 
 ![gatito1](https://journal.iaabcfoundation.org/wp-content/uploads/2021/01/animal-3158652_640-2.jpg)
 ![gatito2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAvPmlVtnn9NBI8KPnLcvB4pIj4SiNF1tygwKLgSQsw0bigSHeWOsaS4&s=10)
+
+## ticks
+- [ ] no
+- [x] si
+- [x] A+(-A)
+
+      

@@ -32,14 +32,14 @@ no me da tiempo a seguir una argumentacion
 #### codigo 
 esto es un programa escrito en java `java`
 
----java
+```java
 void main (String[]args)
 {
 
 system.out.println("hola")
 
 }
----
+```
 
 
 ##### Blockqotes

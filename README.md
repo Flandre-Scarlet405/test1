@@ -1,7 +1,11 @@
 # The Battle Cats
 ## El Mejor Juego de Mobil
-**Objetivamente** tbc es ~~uno de los mejores~~ el mejor juego de mobil actual que hay
+**Objetivamente** tbc es ~~uno de los mejores~~ el mejor juego de mobil actual que hay.
+---
 no me da tiempo a seguir una argumentacion
+---
+
+
 |juegos             | calidad     |
 |---                |---                |             
 |juego1             |    1            |

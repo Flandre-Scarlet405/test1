@@ -22,7 +22,7 @@ no me da tiempo a seguir una argumentacion
 - [x] si
 - [x] A+(-A)
 
-#### codigo
+#### codigo //creo q eto no me va
 esto es un programa escrito en java `java`
 
 ---java

@@ -40,4 +40,20 @@ system.out.println("hola")
 >"algo relacionado con la filosofia "
 >de algun filosofo
 >>de algun pais
+
+## listas
+- bueno por
+- perfecto por
+- increible por
+
+1. porque
+2. historia
+3. conclusion
+
+
+
+
+
+
+
       
